@@ -6,23 +6,20 @@
           <div class="top">
             <h1>Thinh Nguyen</h1>
             <br>
-            <p>a software engineer who finds joy in the world of coding.</p>
+            <p>I'm a software engineer who tackles complex challenges with Go at work and tinkers with innovative projects in Rust on my own time</p>
           </div>
           <div class="bottom">
             <p style="margin-bottom: 5px;">@uchinka</p>
             <div class="socials">
               <ul>
                 <li><img src="https://www.svgrepo.com/download/325236/github.svg" alt="github"></li>
-                <li><img src="https://cdn-icons-png.flaticon.com/512/1384/1384085.png" alt="facebook"></li>
-                <li><img src="https://freeiconshop.com/wp-content/uploads/edd/instagram-new-outline.png" alt="instagram">
-                </li>
               </ul>
             </div>
           </div>
         </div>
       </div>
       <div class="right">
-        <img src="https://media-public.canva.com/eDjgQ/MAE_imeDjgQ/1/s.jpg" alt="avatar">
+        <img src="/unnamed.png" alt="avatar">
       </div>
     </section>
   </div>
@@ -53,7 +50,7 @@ section {
 
     >img {
       height: 230px;
-      filter: opacity(0.5);
+      filter: opacity(0.8);
       -o-object-fit: cover;
       object-fit: cover;
       background-position: center;
